@@ -1,0 +1,31 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+.uv/
+.python-version
+.claude/
+
+# data / artifacts
+outputs/
+*.zip
+*.tar
+*.tar.gz
+*.parquet
+*.npy
+*.npz
+*.pt
+*.bin
+*.safetensors
+
+# editor / OS
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# secrets
+.env
+*.pem
+*.key
+huggingface_token

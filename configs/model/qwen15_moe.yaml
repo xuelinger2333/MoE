@@ -1,0 +1,5 @@
+name: Qwen/Qwen1.5-MoE-A2.7B
+gate_class: Qwen2MoeSparseMoeBlock
+num_routed_experts: 60
+top_k: 4
+num_moe_layers: 24

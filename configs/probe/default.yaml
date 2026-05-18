@@ -1,0 +1,6 @@
+model: deepseek-ai/DeepSeek-V2-Lite
+batch_size: 4
+seq_len: 1024
+n_batches: 50
+ep_size: 4
+seed: 42
